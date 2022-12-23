@@ -1,0 +1,16 @@
+D:\GitHub Repo\Implementation-of-Naive-Bayes-Classification-Algorithm\Naive Bayes Classification Demo\Naive Bayes Classification Demo\bin\Debug\net5.0\Naive Bayes Classification Demo.exe
+D:\GitHub Repo\Implementation-of-Naive-Bayes-Classification-Algorithm\Naive Bayes Classification Demo\Naive Bayes Classification Demo\bin\Debug\net5.0\Naive Bayes Classification Demo.deps.json
+D:\GitHub Repo\Implementation-of-Naive-Bayes-Classification-Algorithm\Naive Bayes Classification Demo\Naive Bayes Classification Demo\bin\Debug\net5.0\Naive Bayes Classification Demo.runtimeconfig.json
+D:\GitHub Repo\Implementation-of-Naive-Bayes-Classification-Algorithm\Naive Bayes Classification Demo\Naive Bayes Classification Demo\bin\Debug\net5.0\Naive Bayes Classification Demo.runtimeconfig.dev.json
+D:\GitHub Repo\Implementation-of-Naive-Bayes-Classification-Algorithm\Naive Bayes Classification Demo\Naive Bayes Classification Demo\bin\Debug\net5.0\Naive Bayes Classification Demo.dll
+D:\GitHub Repo\Implementation-of-Naive-Bayes-Classification-Algorithm\Naive Bayes Classification Demo\Naive Bayes Classification Demo\bin\Debug\net5.0\Naive Bayes Classification Demo.pdb
+D:\GitHub Repo\Implementation-of-Naive-Bayes-Classification-Algorithm\Naive Bayes Classification Demo\Naive Bayes Classification Demo\obj\Debug\net5.0\Naive Bayes Classification Demo.csproj.AssemblyReference.cache
+D:\GitHub Repo\Implementation-of-Naive-Bayes-Classification-Algorithm\Naive Bayes Classification Demo\Naive Bayes Classification Demo\obj\Debug\net5.0\Naive Bayes Classification Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repo\Implementation-of-Naive-Bayes-Classification-Algorithm\Naive Bayes Classification Demo\Naive Bayes Classification Demo\obj\Debug\net5.0\Naive Bayes Classification Demo.AssemblyInfoInputs.cache
+D:\GitHub Repo\Implementation-of-Naive-Bayes-Classification-Algorithm\Naive Bayes Classification Demo\Naive Bayes Classification Demo\obj\Debug\net5.0\Naive Bayes Classification Demo.AssemblyInfo.cs
+D:\GitHub Repo\Implementation-of-Naive-Bayes-Classification-Algorithm\Naive Bayes Classification Demo\Naive Bayes Classification Demo\obj\Debug\net5.0\Naive Bayes Classification Demo.csproj.CoreCompileInputs.cache
+D:\GitHub Repo\Implementation-of-Naive-Bayes-Classification-Algorithm\Naive Bayes Classification Demo\Naive Bayes Classification Demo\obj\Debug\net5.0\Naive Bayes Classification Demo.dll
+D:\GitHub Repo\Implementation-of-Naive-Bayes-Classification-Algorithm\Naive Bayes Classification Demo\Naive Bayes Classification Demo\obj\Debug\net5.0\refint\Naive Bayes Classification Demo.dll
+D:\GitHub Repo\Implementation-of-Naive-Bayes-Classification-Algorithm\Naive Bayes Classification Demo\Naive Bayes Classification Demo\obj\Debug\net5.0\Naive Bayes Classification Demo.pdb
+D:\GitHub Repo\Implementation-of-Naive-Bayes-Classification-Algorithm\Naive Bayes Classification Demo\Naive Bayes Classification Demo\obj\Debug\net5.0\Naive Bayes Classification Demo.genruntimeconfig.cache
+D:\GitHub Repo\Implementation-of-Naive-Bayes-Classification-Algorithm\Naive Bayes Classification Demo\Naive Bayes Classification Demo\obj\Debug\net5.0\ref\Naive Bayes Classification Demo.dll

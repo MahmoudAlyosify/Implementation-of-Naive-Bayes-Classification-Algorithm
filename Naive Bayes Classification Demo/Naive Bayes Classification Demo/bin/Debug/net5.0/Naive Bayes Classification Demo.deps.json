@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Naive Bayes Classification Demo/1.0.0": {
+        "runtime": {
+          "Naive Bayes Classification Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Naive Bayes Classification Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
