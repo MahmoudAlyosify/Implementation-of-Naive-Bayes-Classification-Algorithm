@@ -1,2 +1,6 @@
-# Implementation-of-Naive-Bayes-Classification-Algorithm
-Naive Bayes Classification Demo using C#
+# Naive Bayes Classification Demo using C#
+Most machine learning classification techniques work strictly with numeric data. For these techniques, any non-numeric predictor values, such as male and female, must be converted to numeric values, such as -1 and +1. Naive Bayes is a classification technique that is an exception. It classifies and makes predictions with categorical data.
+
+The "naive" (which means unsophisticated in ordinary usage) in naive Bayes means that all the predictor features are assumed to be independent. For example, suppose you want to predict a person's political inclination, conservative or liberal, based on the person's job (such as cook, doctor, etc.), sex (male or female), and income (low, medium, or high). Naive Bayes assumes job, sex, and income are all independent. This is obviously not true in many situations. In this example, job and income are almost certainly related. In spite of the crude independence assumption, naive Bayes classification is often very effective when working with categorical data.
+
+The "Bayes" refers to Bayes’ theorem. Bayes’ theorem is a fairly simple equation characterized by a "given" condition to find values such as "the probability that a person is a doctor, given that they are a political conservative." The ideas behind Bayes’ theorem are very deep, conceptually and philosophically, but fortunately, applying the theorem when performing naive Bayes classification is relatively simple in principle (although the implementation details are a bit tricky).
