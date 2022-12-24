@@ -148,7 +148,7 @@ namespace Naive_Bayes_Classification_Demo
 
               pConservative.ToString("F4"));
 
-            Console.WriteLine("\nEnd Naive Bayes classification demo\n");
+            Console.WriteLine("\nEnd Naive Bayes classification demo by Mahmoud Alyosify\n");
 
             Console.ReadLine();
 
